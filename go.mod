@@ -118,3 +118,5 @@ require (
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/minio/madmin-go/v3 => github.com/weisd/madmin-go/v3 v3.0.0-20241014123618-e982d82b5f7b
